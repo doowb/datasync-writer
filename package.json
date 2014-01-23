@@ -1,23 +1,29 @@
 {
-  "name": "destiny-writer",
+  "name": "datasync-writer",
   "version": "0.0.1",
-  "description": "Base writer for destiny",
+  "description": "Base writer for datasync",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doowb/destiny-writer.git"
+    "url": "https://github.com/doowb/datasync-writer.git"
   },
   "keywords": [
-    "destiny",
-    "writer"
+    "data",
+    "datasync",
+    "sync",
+    "sync data",
+    "mapper",
+    "map data",
+    "writer",
+    "data writer"
   ],
   "author": "Brian Woodward",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doowb/destiny-writer/issues"
+    "url": "https://github.com/doowb/datasync-writer/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
